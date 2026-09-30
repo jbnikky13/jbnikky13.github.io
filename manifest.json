@@ -1,0 +1,13 @@
+{
+  "name": "Godam Nichole — Pharmacist · Creator · Builder",
+  "short_name": "Godam Nichole",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1628",
+  "theme_color": "#0b1628",
+  "description": "Portfolio of Godam Nichole — pharmacist, creator and builder.",
+  "icons": [
+    { "src": "./assets/avatar.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
