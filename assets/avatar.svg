@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Godam Nichole">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c9a84c"/><stop offset=".5" stop-color="#1a3060"/><stop offset="1" stop-color="#e8c46a"/></linearGradient></defs>
+<circle cx="256" cy="256" r="252" fill="#0b1628" stroke="url(#g)" stroke-width="8"/>
+<circle cx="256" cy="256" r="205" fill="#112040"/>
+<text x="256" y="285" text-anchor="middle" font-family="Georgia,serif" font-size="150" font-weight="700" fill="#f5dfa0">GN</text>
+<text x="256" y="360" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" letter-spacing="8" fill="#f5f0e8">BUILDER</text>
+</svg>
